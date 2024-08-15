@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋  I'm Ishita Sinha</h1>
-<h2 align="center">Third year CSE Student, future Software Engineer.</h2>
+<h2 align="center">Software Engineer.</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishitasinha8&theme=default&show_icons=true"></p>
 

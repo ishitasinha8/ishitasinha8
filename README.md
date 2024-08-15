@@ -1,6 +1,4 @@
 <h1 align="center">Hi there 👋  I'm Ishita Sinha</h1>
-<h2 align="center">Software Engineer.</h2>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishitasinha8&theme=default&show_icons=true"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishitasinha8&show_icons=true&locale=en"></p>
